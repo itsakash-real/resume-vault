@@ -2,8 +2,6 @@
 
 A full-stack web application that helps job seekers manage multiple resume versions and track their job applications efficiently. Built with the MERN stack (MongoDB, Express.js, React, Node.js).
 
-![Resume Vault Banner](https://via.placeholder.com/1200x300/4F46E5/FFFFFF?text=Resume+Vault)
-
 ## 🎯 Problem Statement
 
 Job seekers often struggle with:
@@ -165,18 +163,6 @@ Frontend: http://localhost:5173
 Backend API: http://localhost:5000
 ```
 
----
-
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Dashboard+Screenshot)
-
-### Resume Management
-![Resumes](https://via.placeholder.com/800x400/10B981/FFFFFF?text=Resume+Management+Screenshot)
-
-### Application Tracker
-![Applications](https://via.placeholder.com/800x400/F59E0B/FFFFFF?text=Application+Tracker+Screenshot)
 
 ---
 
@@ -252,82 +238,3 @@ Through this project, I gained hands-on experience with:
 - [ ] Mobile app version
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
-
-## 🙏 Acknowledgments
-
-- Inspired by the challenges faced during my own job search
-- Built as a portfolio project to demonstrate full-stack development skills
-- Thanks to the open-source community for amazing tools and libraries
-
----
-
-## 📞 Contact
-
-Have questions or feedback? Feel free to reach out!
-
-**Project Link**: [https://github.com/yourusername/resume-vault](https://github.com/yourusername/resume-vault)
-
----
-
-⭐ If you found this project helpful, please consider giving it a star!
-
-Additional Tips for Recruiters
-You can also create a separate DEMO.md file with:
-markdown# 🎬 Demo Guide
-
-## Quick Demo Access
-
-**Live Demo**: [https://your-deployed-app.com](https://your-deployed-app.com)
-
-**Test Credentials**:
-- Email: `demo@example.com`
-- Password: `demo123`
-
-## Demo Flow (5 minutes)
-
-1. **Login** with test credentials
-2. **Dashboard** - View application statistics
-3. **Upload Resume** - Sample resume provided in `/demo-assets`
-4. **Add Application** - Add a sample job application
-5. **Filter Applications** - Test status filtering
-6. **Edit/Delete** - Modify application data
-
-## Video Walkthrough
-
-[Link to 2-minute demo video on YouTube/Loom]
-
-## Key Features to Notice
-
-✅ Clean, professional UI
-✅ Fast loading times
-✅ Responsive design (works on mobile)
-✅ Intuitive navigation
-✅ Real-time updates
-✅ Secure authentication
